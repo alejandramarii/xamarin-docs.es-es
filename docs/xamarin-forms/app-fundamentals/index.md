@@ -82,7 +82,7 @@ Xamarin.Forms Shell es un contenedor para aplicaciones, que proporciona caracter
 
 ## <a name="templatestemplatesindexmd"></a>[Templates](templates/index.md) (Plantillas [C++])
 
-Las plantillas de control proporcionan la capacidad de aplicar temas y cambiar el tema de las páginas de aplicación fácilmente en tiempo de ejecución, mientras que las plantillas de datos proporcionan la capacidad de definir la presentación de datos en los controles admitidos.
+Las plantillas de control proporcionan la capacidad de aplicar temas y cambiar los de las páginas de aplicación fácilmente en tiempo de ejecución, mientras que las plantillas de datos proporcionan la capacidad de definir la presentación de datos en los controles admitidos.
 
 ## <a name="triggerstriggersmd"></a>[Desencadenadores](triggers.md)
 
