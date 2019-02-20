@@ -30,7 +30,7 @@ La clase `Application` y los métodos `OnStart`, `OnSleep` y `OnResume`, así co
 
 ## <a name="application-indexing-and-deep-linkingdeep-linkingmd"></a>[Indexación de la aplicación y vinculación en profundidad](deep-linking.md)
 
-La indexación de la aplicación permite a aplicaciones que de lo contrario se olvidarían tras unos pocos usos mantener su pertinencia al aparecer en los resultados de la búsqueda. La vinculación en profundidad permite a las aplicaciones responder a un resultado de la búsqueda que contiene datos de aplicación, normalmente al navegar a una página a la que se hace referencia a partir de un vínculo profundo.
+La indexación de la aplicación permite a las aplicaciones mantener sus pertinencia al aparecer los resultados de búsqueda, ya que de lo contrario se olvidarían tras unos pocos usos. La vinculación en profundidad permite a las aplicaciones responder a un resultado de la búsqueda que contiene datos de aplicación, normalmente al navegar a una página a la que se hace referencia a partir de un vínculo profundo.
 
 ## <a name="behaviorsbehaviorsindexmd"></a>[Comportamientos](behaviors/index.md)
 
